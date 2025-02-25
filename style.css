@@ -1,0 +1,51 @@
+body {
+  background-color: #EFA00B;
+}
+
+
+h1 {
+  color: #554348;
+  font-size: 36px;
+  font-family: Garamond, Calibri, sans-serif;  
+}
+
+body {
+  color: #554348;
+  font-size: 18px;
+  font-family: Garamond, Calibri, sans-serif;
+}
+
+.Alexander {
+  background-color: #ADB4BF;
+  padding-left: 20px;
+  border: 2px solid #554348;
+}
+
+.Examples1 {
+  background-color: #ADB4BF;
+  padding-left: 5px;
+}
+
+.Examples2 {
+  background-color: #ADB4BF;
+  padding-left: 5px;
+}
+
+.Examples3 {
+  background-color: #ADB4BF;
+  padding-left: 5px;
+}
+
+.Examples4 {
+  background-color: #ADB4BF;
+  padding-left: 5px;
+}
+
+.Examples5 {
+  background-color: #ADB4BF;
+  padding-left: 5px;
+}
+
+div {
+  
+}
